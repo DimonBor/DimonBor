@@ -1,6 +1,6 @@
 # Dmytro
 - 👋 Hi, I’m @DimonBor
-- 👀 I’m interested in new expirience
+- 👀 I’m interested in new experience
 
 ## Skills
   1. GNU/Linux administration, Docker/Podman, Systemd.
