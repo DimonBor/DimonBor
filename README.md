@@ -10,5 +10,5 @@
  
 ## Experience
   ### OrangeFox Recovery and Sophie Bot (open-source projects)/Sysadmin/Volunteer.
-  - I am engaged in server uptime support and container management.
+  - I was in charge of server uptime and container management.
 
