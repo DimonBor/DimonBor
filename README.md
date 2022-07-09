@@ -7,7 +7,8 @@
   2. Basic knowledge of C/C++, Python languages.
   3. Basic skills to use Git.
   4. Basic usage of Ansible.
- 
+  5. Experience with AWS and Oracle Cloud(as part of free tier resources).
+  
 ## Experience
   ### OrangeFox Recovery and Sophie Bot (open-source projects)/Sysadmin/Volunteer.
   - I was in charge of server uptime and container management.
