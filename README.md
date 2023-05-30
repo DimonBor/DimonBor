@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @DimonBor
 - 👀 I’m interested in new experience
 - 💻 I use Arch, BTW
+- 🚑 Unix schizo 
 
 ## Education
 On my way to Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/en/).
