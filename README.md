@@ -10,11 +10,11 @@ On my way to Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/e
 ## Skills
   1. GNU/Linux administration: Docker/Podman, Portainer, CoreOS, Perl/Bash scripting, Ansible Playbooks, Networking.
   2. Databases: SQL(MySQL, Oracle, PostgreSQL), NoSQL(MongoDB).
-  3. Networking: VoIP(SIP, RTP), network administartion.  
+  3. Networking: VoIP(SIP, RTP), network administration.  
   4. Development: basic knowledge of C/C++, Python languages.
   5. Tools: Git, YouTrack.
   6. Experience with AWS and Oracle Cloud(as part of the free tier resources).
-  7. Virtaulization (Proxmox).
+  7. Virtualization (Proxmox).
   8. Softs kills: problem solving, issue troubleshooting, team work.  
   
 ## Experience
