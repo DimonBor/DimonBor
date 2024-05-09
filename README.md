@@ -31,4 +31,4 @@ On my way to Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/e
 
 ## Milestones
   - Become someone ✔️
-  - Become a DevOps 🔄
+  - ...
