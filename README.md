@@ -21,7 +21,7 @@ On my way to Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/e
   ### OrangeFox Recovery and Sophie Bot (open-source projects)/Sysadmin/Volunteer.
   - I was in charge of server uptime and container management.
   
-  ### [PortaOne 🌎](https://www.portaone.com/) (Technical support engineer since December 2022)
+  ### [PortaOne 🌎](https://www.portaone.com/) (Technical support engineer December 2022 - December 2023)
   - Customer support.
   - VoIP troubleshooting.
   - Network troubleshooting.
