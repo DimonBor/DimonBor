@@ -5,7 +5,8 @@
 - 🚑 Unix schizo 
 
 ## Education
-On my way to a Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/en/).
+- Cybersecurity bachelor's degree in [SSU](https://int.sumdu.edu.ua/en/)
+- On my way to a Cybersecurity master degree in [KPI](https://kpi.ua/en/)
 
 ## Skills
   1. GNU/Linux administration: Docker/Podman, Portainer, CoreOS, Perl/Bash scripting, Ansible Playbooks, Networking.
