@@ -30,7 +30,7 @@
   - Shell/Perl scripting.
   - Incredibly valuable corporate experience 🙃
 
-  ### [AllRight 🇺🇦](https://allright.com/) (Technical Support Engineer February 2025 - present)
+  ### [AllRight 🇺🇦](https://allright.com/) (Technical Support Engineer February 2025 - June 2025)
   - Customer support.
   - Issue troubleshooting.
   - Performance optimization.
